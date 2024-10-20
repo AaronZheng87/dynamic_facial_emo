@@ -20,13 +20,20 @@ Below are the results from our current experiment:
 1. **Original Demo Video**:  
    - The original video used for emotion recognition can be found [here](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/emonet/data/demo_video/demo.mp4).
 
+     ![Original Demo Video gif](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/demo.gif)
+   
 2. **Feature Map Output (First Convolutional Layer)**:  
+   
    - The extracted feature maps of the first convolutional layer from the EmoNet model are visualized in this video:  
-   [feature_map_output.mp4](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/emonet/data/output_demo/feature_map_output.mp4).
+     [feature_map_output.mp4](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/emonet/data/output_demo/feature_map_output.mp4).
+   
+     ![conv1 Demo Video gif](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/feature_map_output.gif)
    
 3. **EmoNet First Convolutional Layer Feature Map**:  
    - The first convolutional layer's output, specific to the EmoNet network, can be seen in this video:  
-   [feature_map_output_emoconv1.mp4](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/emonet/data/output_demo/feature_map_output_emoconv1.mp4).
+     [feature_map_output_emoconv1.mp4](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/emonet/data/output_demo/feature_map_output_emoconv1.mp4).
+   
+     ![emoconv1 Demo Video gif](https://github.com/AaronZheng87/dynamic_facial_emo/blob/main/feature_map_output_emoconv1.gif)
 
 ## Installation and Setup
 
